@@ -6,6 +6,8 @@ RECYCLEASY is an automated solution designed to improve recycling efficiency at 
 The system automatically drains liquid from disposed bottles, addressing the issue of contaminated recyclables in the Zero-Sort™ waste collection system.
 Our site can be found here: [Visit RECYCLEASY](https://sites.google.com/dartmouth.edu/recycleasy)
 
+Authors: Wesley Tan, Nigel Jeon, Batu Ozer & Swabir Bwana
+
 ### Hardware Requirements
 - Arduino board
 - IR sensor (connected to pin 10)
